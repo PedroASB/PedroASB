@@ -3,8 +3,8 @@
 - 🏫 Estudo na <a href="https://www.ufg.br/">Universidade Federal de Goiás (UFG)</a>
 - 💻 Atualmente cursando bacharelado em Ciência da Computação
 - 🙂 Meus interesses:
-	* Linguagens Formais e Autômatos
 	* Teoria dos Grafos
+	* Linguagens Formais e Autômatos
 	* Inteligência Artificial
 - 💭 Quero aprender mais sobre:
 	* Programação Front-End
