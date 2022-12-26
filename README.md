@@ -10,12 +10,6 @@
 	* Programação Front-End
 	* Redes Neurais e Deep Learning
 
-
-
-<!--   * Familiaridade com C, C++, Java e Python
-  * Noções de Lua e AT&T Assembly
-  * Aprendendo JavaScript -->
-  
 ### Tenho familiaridade com
 <div>
 <div style="display: inline_block">
