@@ -1,6 +1,6 @@
 ## Sobre mim
 
-- 🏫 Estudo na <a style="white-space: nowrap" href="https://www.ufg.br/"><p>Universidade Federal de Goiás (UFG)</p></a>
+- 🏫 Estudo na <a href="https://www.ufg.br/">Universidade Federal de Goiás (UFG)</a>
 - 💻 Atualmente cursando bacharelado em Ciência da Computação
 - 🙂 Meus interesses:
   * Linguagens Formais e Autômatos
