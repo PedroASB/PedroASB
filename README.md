@@ -1,5 +1,7 @@
 ## **Sobre mim** _(About me)_
 
+<img src="https://user-images.githubusercontent.com/79765850/229374236-8a5fff41-6dbe-4da3-990c-3aee7cd25ad2.png" alt= “my-octocat” width="160" height="160">
+
 - 🏫 **Estudo na <a href="https://www.ufg.br/">Universidade Federal de Goiás (UFG)</a>** _(I study at <a href="https://www.ufg.br/">Universidade Federal de Goiás (UFG)</a>)_
 - 💻 **Atualmente cursando Ciência da Computação** _(Currently studying Computer Science)_
 - 🙂 **Meus interesses:** _(My interests)_
@@ -12,7 +14,7 @@
 	* **Redes Neurais** _(Neural Networks)_
 	* **Aprendizado Profundo** _(Deep Learning)_
 
-### **Tenho familiaridade com** _(I'm familiar with)_
+### **Tenho familiaridade com** _(I'm familiar with)_:
 <div>
 <div style="display: inline_block">
     <img align="center" alt="C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -22,7 +24,7 @@
 	<img align="center" alt="Lua" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg">
 </div>
  
-### **Estou aprendendo** _(I'm learning)_
+### **Estou aprendendo** _(I'm learning)_:
 <div>
 <div style="display: inline_block">
     <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
