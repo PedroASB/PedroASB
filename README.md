@@ -9,8 +9,7 @@
 	* **Linguagens Formais e Autômatos** / _Formal Languages and Automata_
 	* **Inteligência Artificial** / _Artificial Intelligence_
 - 💭 **Quero aprender mais sobre** / _I want to learn more about_:
-	* **Programação Back-End** / _Back-End Programming_
-	* **Programação Front-End** / _Front-End Programming_
+	* **Compiladores** / _Compilers_
 	* **Redes Neurais** / _Neural Networks_
 	* **Aprendizado Profundo** / _Deep Learning_
 
