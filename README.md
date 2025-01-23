@@ -11,6 +11,7 @@
 	* **Compiladores** / _Compilers_
 	* **Inteligência Artificial** / _Artificial Intelligence_
 
+<!--
 ### **Tenho familiaridade com** / _I'm familiar with_:
 <div>
 <div style="display: inline_block">
@@ -20,7 +21,15 @@
 	<img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 	<img align="center" alt="Lua" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg">
 </div>
+-->
+
+<!--
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroasb&layout=compact&hide=jupyter%20notebook,swig&theme=dracula)
+ -->
  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroasb&layout=donut&hide=jupyter%20notebook,swig&theme=dracula)
+ 
+
 
 <!-- ### **Estou aprendendo** / _I'm learning_:
 <div>
