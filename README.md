@@ -27,8 +27,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroasb&layout=compact&hide=jupyter%20notebook,swig&theme=dracula)
  -->
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroasb&layout=donut&hide=jupyter%20notebook,swig&theme=dracula)
- 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroasb&layout=compact&hide=jupyter%20notebook,swig&theme=dracula&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroasb&show_icons=true&hide_rank=true&theme=dracula&show=prs_merged&hide=stars,issues&include_all_commits=true&custom_title=GitHub%20Stats&line_height=24)
 
 
 <!-- ### **Estou aprendendo** / _I'm learning_:
