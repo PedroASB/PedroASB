@@ -1,5 +1,12 @@
-## <div align="center">Sobre mim / <i>About me</i></div>
+## <div align="center">About me</div>
 
+<div align="center">
+	My name is Pedro Augusto. I am B.Sc. in Computer Science and my thesis was on Graph Theory. I enjoy studying theoretical computer science. In programming, I am familiar with C/C++ and Python, and my favorite projects were building a compiler and an interpreter during college.
+</div>
+<br>
+
+
+<!--
 <div align="center">
 	Bacharel em Ciência da Computação pela 🏫 <a href="https://www.ufg.br/">Universidade Federal de Goiás (UFG)
 </div>
@@ -7,7 +14,6 @@
 	<i>Bachelor in Computer Science from</i> 🏫 <i><a href="https://international.ufg.br/">Federal University of Goiás (UFG)</i>
 </div>
 
-<!--
 - 🏫 **Estudo na <a href="https://www.ufg.br/">Universidade Federal de Goiás (UFG)</a>** / _I study at <a href="https://www.ufg.br/">Universidade Federal de Goiás (UFG)</a>_
 - 💻 **Atualmente cursando Ciência da Computação** / _Currently studying Computer Science_
 - 🙂 **Meus interesses** / _My interests_:
@@ -16,10 +22,7 @@
 	* **Linguagens Formais e Autômatos** / _Formal Languages and Automata_
 	* **Compiladores** / _Compilers_
 	* **Inteligência Artificial** / _Artificial Intelligence_
- -->
-
-
- <br>
+<br>
 <div align="center">
 	<b>Áreas de interesse / <i>Fields of interest</i>:</b>
 </div>
@@ -35,6 +38,28 @@
 <div align="center">
 	Compiladores e Interpretadores / <i>Compilers and Interpreters</i>
 </div>
+ -->
+
+
+<div align="center">
+	<b>Fields of interest:</b>
+</div>
+<div align="center">
+	Graph Theory
+</div>
+<div align="center">
+	Theory of Computation
+</div>
+<div align="center">
+	Algorithms and Optimization
+</div>
+<div align="center">
+	Compilers and Interpreters
+</div>
+<div align="center">
+	Artificial Intelligence
+</div>
+
 
  
 <br>
