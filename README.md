@@ -1,7 +1,7 @@
 ## <div align="center">About me</div>
 
 <div align="center">
-	My name is Pedro Augusto. I am B.Sc. in Computer Science and my thesis was on Graph Theory. I enjoy studying theoretical computer science. In programming, I am familiar with C/C++ and Python, and my favorite projects were building a compiler and an interpreter during college.
+	My name is Pedro Augusto Serafim Belo. I am B.Sc. in Computer Science and my thesis was on Graph Theory. I enjoy studying theoretical computer science. In programming, I am familiar with C/C++ and Python, and my favorite projects were building a compiler and an interpreter during college.
 </div>
 <br>
 
