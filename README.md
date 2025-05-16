@@ -1,106 +1,30 @@
-## <div align="center">About me</div>
+## <div align="center">Sobre mim</div>
 
 <div align="center">
-	My name is Pedro Augusto Serafim Belo. I am B.Sc. in Computer Science and my thesis was on Graph Theory. I enjoy studying theoretical computer science. In programming, I am familiar with C/C++ and Python, and my favorite projects were implementing a compiler and an interpreter during my undergraduate studies.
+	Meu nome é Pedro Augusto Serafim Belo, sou bacharel em Ciência da Computação pela Universidade Federal de Goiás (UFG) e meu Trabalho de Conclusão de Curso foi na área de Teoria dos Grafos. Meus projetos favoritos durante a graduação foram implementar um interpretador e um compilador. Tenho interesse em aprender novas tecnologias e meu objetivo atual é adquirir experiência e evoluir como profissional.
 </div>
 <br>
 
 
-<!--
 <div align="center">
-	Bacharel em Ciência da Computação pela 🏫 <a href="https://www.ufg.br/">Universidade Federal de Goiás (UFG)
-</div>
-<div align="center">
-	<i>Bachelor in Computer Science from</i> 🏫 <i><a href="https://international.ufg.br/">Federal University of Goiás (UFG)</i>
-</div>
-
-- 🏫 **Estudo na <a href="https://www.ufg.br/">Universidade Federal de Goiás (UFG)</a>** / _I study at <a href="https://www.ufg.br/">Universidade Federal de Goiás (UFG)</a>_
-- 💻 **Atualmente cursando Ciência da Computação** / _Currently studying Computer Science_
-- 🙂 **Meus interesses** / _My interests_:
-	* **Teoria dos Grafos** / _Graphs Theory_
-	* **Teoria da Computação** / _Theory of Computation_
-	* **Linguagens Formais e Autômatos** / _Formal Languages and Automata_
-	* **Compiladores** / _Compilers_
-	* **Inteligência Artificial** / _Artificial Intelligence_
-<br>
-<div align="center">
-	<b>Áreas de interesse / <i>Fields of interest</i>:</b>
-</div>
-<div align="center">
-	Teoria dos Grafos / <i>Graph Theory</i>
-</div>
-<div align="center">
-	Teoria da Computação / <i>Theory of Computation</i>
-</div>
-<div align="center">
-	Inteligência Artificial / <i>Artificial Intelligence</i>
-</div>
-<div align="center">
-	Compiladores e Interpretadores / <i>Compilers and Interpreters</i>
-</div>
- -->
-
-
-<div align="center">
-	<b>Fields of interest:</b>
-</div>
-<div align="center">
-	Graph Theory
-</div>
-<div align="center">
-	Theory of Computation
-</div>
-<div align="center">
-	Algorithms and Optimization
-</div>
-<div align="center">
-	Compilers and Interpreters
-</div>
-<div align="center">
-	Artificial Intelligence
+ 	<img src="https://github.com/user-attachments/assets/6bac189c-9789-4053-90e2-ff55964a6937" width="50"> <!-- C++ -->
+	<img src="https://github.com/user-attachments/assets/30470a4e-46f8-486b-a361-5f9f2026b59c" width="50"> <!-- Python -->
+ 	<img src="https://github.com/user-attachments/assets/d96c9134-387b-4b21-b3ce-658efda890ae" width="50"> <!-- Java -->
+	<img src="https://github.com/user-attachments/assets/6da7d904-2f97-4978-ad6e-b56160e6c8e5" width="50"> <!-- Linux -->
+	<img src="https://github.com/user-attachments/assets/32c42e23-4f58-4b21-bdfb-48e1cb3e8cdd" width="50"> <!-- Git -->
+	<img src="https://github.com/user-attachments/assets/e9540e22-62b0-4205-9cbb-ca3462d799f9" width="50"> <!-- Figma -->
 </div>
 
 
- 
 <br>
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroasb&layout=compact&hide=jupyter%20notebook,swig&theme=dracula&langs_count=6&disable_animations=true" alt="Top Languages">
   <img src="https://github-readme-stats.vercel.app/api?username=pedroasb&show_icons=true&hide_rank=true&theme=dracula&show=prs_merged&hide=stars,issues&include_all_commits=false&custom_title=GitHub%20Stats&line_height=24&disable_animations=true" alt="GitHub Stats">
 </div>
 
----
-<!--
-Alinhado à esquerda 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroasb&layout=compact&hide=jupyter%20notebook,swig&theme=dracula&langs_count=6)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroasb&show_icons=true&hide_rank=true&theme=dracula&show=prs_merged&hide=stars,issues&include_all_commits=true&custom_title=GitHub%20Stats&line_height=24)
- -->
- 
-[//]: <img src="https://user-images.githubusercontent.com/79765850/229374236-8a5fff41-6dbe-4da3-990c-3aee7cd25ad2.png" alt= “my-octocat” width="160" height="160">
 
-<!--
-Centralizado
-<div align="center">
-	Este texto estará centralizado.
-</div>
- -->
+<br>
 
-<!--
-### **Tenho familiaridade com** / _I'm familiar with_:
-<div>
-<div style="display: inline_block">
-    <img align="center" alt="C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="C++" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-	<img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-	<img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-	<img align="center" alt="Lua" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg">
-</div>
--->
 
-<!-- ### **Estou aprendendo** / _I'm learning_:
-<div>
-<div style="display: inline_block">
-    <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
--->
+
+
