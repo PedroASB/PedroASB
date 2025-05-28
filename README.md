@@ -1,7 +1,7 @@
 ## <div align="center">Sobre mim</div>
 
 <div align="center">
-	Meu nome é Pedro Augusto Serafim Belo, sou bacharel em Ciência da Computação pela Universidade Federal de Goiás (UFG) e meu Trabalho de Conclusão de Curso foi na área de Teoria dos Grafos. Meus projetos favoritos durante a graduação foram implementar um interpretador e um compilador. Tenho interesse em aprender novas tecnologias e meu objetivo atual é adquirir experiência e evoluir como profissional.
+	Olá! Me chamo Pedro Augusto, sou bacharel em Ciência da Computação pela Universidade Federal de Goiás (UFG) e meu Trabalho de Conclusão de Curso foi na área de Teoria dos Grafos. Meus projetos favoritos durante a graduação foram implementar um interpretador e um compilador. Tenho interesse em aprender novas tecnologias e meu objetivo atual é adquirir experiência e evoluir como profissional.
 </div>
 <br>
 
