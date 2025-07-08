@@ -1,30 +1,53 @@
-## <div align="center">Sobre mim</div>
+# Hi, I'm Pedro Augusto
 
-<div align="center">
-	Olá! Me chamo Pedro Augusto, sou bacharel em Ciência da Computação pela Universidade Federal de Goiás (UFG) e meu Trabalho de Conclusão de Curso foi na área de Teoria dos Grafos. Meus projetos favoritos durante a graduação foram implementar um interpretador e um compilador. Tenho interesse em aprender novas tecnologias e meu objetivo atual é adquirir experiência e evoluir como profissional.
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedroasbelo@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/pedroasbelo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-augusto-serafim-belo-7a66b1366)
+
+I have a B.Sc. in Computer Science from the Federal University of Goiás and I'm currently studying to become a full stack developer.
+
+## 👨‍🎓 Undergraduate Studies
+
+I've developed several projects in languages such as C++, Python and Java, which gave me a good foundation in back-end. Among these, I implemented an [interpreter](https://github.com/PedroASB/BOL-Interpreter) and a [compiler](https://github.com/PedroASB/compilador-mgol).
+
+I became particularly interested in theoretical areas of computer science, which motivated me to write my undergraduate thesis in the field of Graph Theory.
+
+## 🎯 Current Goal
+
+After initially dedicating myself to the academic research area, I started exploring other paths and I'm currently studying full stack development. I already have some interesting projects on GitHub, which can be found in [odin-foundations](https://github.com/PedroASB/odin-foundations) repository.
+
+---
+
+### Languages & Tools
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
+![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=uml&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+### Stats
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroASB&custom_title=Undergraduate%20Studies&layout=compact&theme=nord&=disable_animations=false&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,html,css,javascript,swig" alt="Undergraduate Studies" width="290px">
+<img src="https://github-readme-stats.vercel.app/api?username=PedroASB&custom_title=GitHub%20Stats&show_icons=true&hide_rank=true&theme=nord&show=prs_merged&hide=stars,issues&=include_all_commits=false&line_height=24&disable_animations=false" alt="GitHub Stats" width="260px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroASB&custom_title=Full%20Stack%20Projects&layout=compact&theme=nord&=disable_animations=false&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,swig,c,java,lua,assembly,python,c%2B%2B&hide_progress=false" alt="Full Stack Projects" width="260px">
 </div>
-<br>
 
+---
 
-<div align="center">
- 	<img src="https://github.com/user-attachments/assets/6bac189c-9789-4053-90e2-ff55964a6937" width="50"> <!-- C++ -->
-	<img src="https://github.com/user-attachments/assets/30470a4e-46f8-486b-a361-5f9f2026b59c" width="50"> <!-- Python -->
- 	<img src="https://github.com/user-attachments/assets/d96c9134-387b-4b21-b3ce-658efda890ae" width="50"> <!-- Java -->
-	<img src="https://github.com/user-attachments/assets/6da7d904-2f97-4978-ad6e-b56160e6c8e5" width="50"> <!-- Linux -->
-	<img src="https://github.com/user-attachments/assets/32c42e23-4f58-4b21-bdfb-48e1cb3e8cdd" width="50"> <!-- Git -->
-	<img src="https://github.com/user-attachments/assets/e9540e22-62b0-4205-9cbb-ca3462d799f9" width="50"> <!-- Figma -->
-</div>
-
-
-<br>
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroasb&layout=compact&hide=jupyter%20notebook,swig&theme=dracula&langs_count=6&disable_animations=true" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroasb&show_icons=true&hide_rank=true&theme=dracula&show=prs_merged&hide=stars,issues&include_all_commits=false&custom_title=GitHub%20Stats&line_height=24&disable_animations=true" alt="GitHub Stats">
-</div>
-
-
-<br>
-
-
-
-
+> _“The only way to do great work is to love what you do.”_
+>
+> — Steve Jobs
