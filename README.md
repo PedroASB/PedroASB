@@ -8,9 +8,9 @@ Hi there, I'm Pedro Augusto. I have a B.Sc. in Computer Science from the Federal
 
 ## 🎓 Undergraduate Studies
 
-I've developed several projects in languages such as C++, Python and Java, which gave me a good foundation in back-end. Among these, I implemented an [interpreter](https://github.com/PedroASB/BOL-Interpreter) and a [compiler](https://github.com/PedroASB/compilador-mgol).
+During college, I became particularly interested in theoretical areas of computer science, which led me to write my undergraduate thesis in Graph Theory and then publish an article based on it.
 
-I became particularly interested in theoretical areas of computer science, which motivated me to write my undergraduate thesis in the field of Graph Theory.
+I've also built several backend-focused projects in languages such as C++, Python, and Java — including a language interpreter, a compiler, a restaurant system and many others. You can find some of them in my pinned repositories.
 
 ## 🎯 Current Goal
 
