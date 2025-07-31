@@ -1,12 +1,12 @@
-# Hi, I'm Pedro Augusto
+# About me
 
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedroasbelo@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/pedroasbelo)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-augusto-serafim-belo-7a66b1366)
 
-I have a B.Sc. in Computer Science from the Federal University of Goiás and I'm currently studying to become a full stack developer.
+Hi there, I'm Pedro Augusto. I have a B.Sc. in Computer Science from the Federal University of Goiás and I'm currently studying full stack development.
 
-## 👨‍🎓 Undergraduate Studies
+## 🎓 Undergraduate Studies
 
 I've developed several projects in languages such as C++, Python and Java, which gave me a good foundation in back-end. Among these, I implemented an [interpreter](https://github.com/PedroASB/BOL-Interpreter) and a [compiler](https://github.com/PedroASB/compilador-mgol).
 
@@ -14,7 +14,7 @@ I became particularly interested in theoretical areas of computer science, which
 
 ## 🎯 Current Goal
 
-After initially dedicating myself to the academic research area, I started exploring other paths and I'm currently studying full stack development. I already have some interesting projects on GitHub, which can be found in [odin-foundations](https://github.com/PedroASB/odin-foundations) repository.
+After initially dedicating myself to the academic research area, I started exploring other paths and am currently studying to become a full stack developer. I already have some interesting projects on GitHub, which can be found in [odin-foundations](https://github.com/PedroASB/odin-foundations) repository.
 
 ---
 
@@ -41,7 +41,7 @@ After initially dedicating myself to the academic research area, I started explo
 ### Stats
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroASB&custom_title=Undergraduate%20Studies&layout=compact&theme=nord&=disable_animations=false&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,html,css,javascript,swig" alt="Undergraduate Studies" width="290px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroASB&custom_title=Undergraduate%20Projects&layout=compact&theme=nord&=disable_animations=false&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,html,css,javascript,swig" alt="Undergraduate Studies" width="290px">
 <img src="https://github-readme-stats.vercel.app/api?username=PedroASB&custom_title=GitHub%20Stats&show_icons=true&hide_rank=true&theme=nord&show=prs_merged&hide=stars,issues&=include_all_commits=false&line_height=24&disable_animations=false" alt="GitHub Stats" width="260px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroASB&custom_title=Full%20Stack%20Projects&layout=compact&theme=nord&=disable_animations=false&size_weight=1&count_weight=0&hide=jupyter%20notebook,swig,c,java,lua,assembly,python,c%2B%2B&hide_progress=false" alt="Full Stack Projects" width="260px">
 </div>
