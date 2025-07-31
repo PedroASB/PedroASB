@@ -10,7 +10,7 @@ Hi there, I'm Pedro Augusto. I have a B.Sc. in Computer Science from the Federal
 
 During college, I became particularly interested in theoretical areas of computer science, which led me to write my undergraduate thesis in Graph Theory and then publish an article based on it.
 
-I've also built several backend-focused projects in languages such as C/C++, Python, Lua and Java — including a language interpreter, a compiler, a restaurant system and many others. You can find some of them in my pinned repositories.
+I've also built backend-focused projects in languages such as C/C++, Python, Lua and Java — including a language interpreter, a compiler, a restaurant system and several others. You can find some of them in my pinned repositories.
 
 ## 🎯 Current Goal
 
