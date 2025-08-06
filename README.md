@@ -1,6 +1,7 @@
 # About me
 
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedroaugustosbelo@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedroasbelo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-augusto-serafim-belo-7a66b1366)
 
 Hi there, I'm Pedro Augusto. I have a B.Sc. in Computer Science from the Federal University of Goiás and I'm currently studying full stack development.
 
