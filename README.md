@@ -13,7 +13,7 @@ I've also built backend-focused projects in languages such as C/C++, Python, Lua
 
 ## 🎯 Current Goal
 
-After initially dedicating myself to the academic research area, I started exploring other paths and am currently studying to become a full stack developer. I already have some interesting projects on GitHub, which can be found in [odin-foundations](https://github.com/PedroASB/odin-foundations) repository.
+After initially dedicating myself to the academic research area, I started exploring other paths and am currently studying to become a full stack developer. I already have some interesting projects on GitHub, which can be found in [fullstack-journey](https://github.com/PedroASB/fullstack-journey) repository.
 
 ---
 
