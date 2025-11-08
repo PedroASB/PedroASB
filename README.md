@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedroaugustosbelo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroasbelo/)
 
-Hi there, I'm Pedro Augusto. I have a B.Sc. in Computer Science from the Federal University of Goiás and I'm currently studying full stack development.
+Hi there, I'm Pedro Augusto. I am a Computer Science graduate from the Federal University of Goiás and I'm currently studying full stack development.
 
 ## 🎓 Undergraduate Studies
 
@@ -13,7 +13,7 @@ I've also built backend-focused projects in languages such as C/C++, Python, Lua
 
 ## 🎯 Current Goal
 
-After initially dedicating myself to the academic research area, I started exploring other paths and am currently studying to become a full stack developer. I've already built some interesting projects, which can be found in [fullstack-journey](https://github.com/PedroASB/fullstack-journey) repository.
+After initially dedicating myself to the academic research area, I started exploring other paths and am currently working on full stack projects. I've already built some interesting projects, which can be found in [fullstack-journey](https://github.com/PedroASB/fullstack-journey) repository.
 
 ---
 
@@ -22,22 +22,42 @@ After initially dedicating myself to the academic research area, I started explo
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-5779a0?style=for-the-badge&logo=c&logoColor=white) <!-- ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) -->
+![C](https://img.shields.io/badge/C-5779a0?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Java](https://img.shields.io/badge/Java-c04934?style=for-the-badge&logo=java&logoColor=white) <!-- ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white) -->
-![UML](https://img.shields.io/badge/UML-4d45b9?style=for-the-badge&logo=uml&logoColor=white) <!-- ![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=uml&logoColor=white) -->
-![Figma](https://img.shields.io/badge/Figma-48a572?style=for-the-badge&logo=figma&logoColor=white) <!-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) -->
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-c04934?style=for-the-badge&logo=java&logoColor=white) 
+![UML](https://img.shields.io/badge/UML-4d45b9?style=for-the-badge&logo=uml&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-48a572?style=for-the-badge&logo=figma&logoColor=white) 
+![GNU Bash](https://img.shields.io/badge/Bash-36373D?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-### Stats
+
+<!-- 
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgre%20SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+-->
+
+
+<!-- ![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white) 
+<!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
+<!-- ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) -->
+<!-- ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white) -->
+<!-- ![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=uml&logoColor=white) -->
+<!-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) -->
+
+### Some Stats
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroASB&custom_title=Undergraduate%20Projects&layout=compact&theme=nord&=disable_animations=false&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,html,css,javascript,swig" alt="Undergraduate Studies" width="290px">
@@ -46,5 +66,7 @@ After initially dedicating myself to the academic research area, I started explo
 </div>
 <br>
 
+<!-- 
 > _“The only way to do great work is to love what you do.”_
 > — Steve Jobs
+ -->
