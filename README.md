@@ -62,9 +62,9 @@ After initially dedicating myself to the academic research area, I started explo
 ### Some Stats
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroASB&custom_title=Undergraduate%20Projects&layout=compact&theme=nord&=disable_animations=false&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,html,css,javascript,swig" alt="Undergraduate Studies" width="290px">
-<img src="https://github-readme-stats.vercel.app/api?username=PedroASB&custom_title=GitHub%20Stats&show_icons=true&hide_rank=true&theme=nord&show=prs_merged&hide=stars,issues&=include_all_commits=false&line_height=24&disable_animations=false" alt="GitHub Stats" width="260px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroASB&custom_title=Full%20Stack%20Projects&layout=compact&theme=nord&=disable_animations=false&size_weight=1&count_weight=0&hide=jupyter%20notebook,swig,c,java,lua,assembly,python,c%2B%2B&hide_progress=false" alt="Full Stack Projects" width="260px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroASB&custom_title=Undergraduate%20Projects&layout=compact&theme=nord&=disable_animations=false&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,html,css,javascript,swig" alt="Undergraduate Studies"  width=270px>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroASB&custom_title=Full%20Stack%20Projects&layout=compact&theme=nord&=disable_animations=false&size_weight=1&count_weight=0&hide=jupyter%20notebook,swig,c,java,lua,assembly,python,c%2B%2B&hide_progress=false" alt="Full Stack Projects"  width=315px>
+<img src="https://github-readme-stats.vercel.app/api?username=PedroASB&custom_title=GitHub%20Stats&show_icons=true&hide_rank=true&theme=nord&show=prs_merged&hide=stars,issues&=include_all_commits=false&line_height=24&disable_animations=false" alt="GitHub Stats" width=270px>
 </div>
 <br>
 
