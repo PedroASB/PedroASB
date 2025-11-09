@@ -22,11 +22,10 @@ After initially dedicating myself to the academic research area, I started explo
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 <!-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) -->
 <!-- ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white) -->
 <!-- ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) -->
@@ -44,6 +43,8 @@ After initially dedicating myself to the academic research area, I started explo
 ![Figma](https://img.shields.io/badge/Figma-48a572?style=for-the-badge&logo=figma&logoColor=white)
 
 <!-- ![MDN Web Docs](https://img.shields.io/badge/MDN%20Web%20Docs-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=white) -->
+<!-- ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white) -->
+<!-- ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black) -->
 
 <!-- ![GNU Bash](https://img.shields.io/badge/Bash-36373D?style=for-the-badge&logo=gnubash&logoColor=white) -->
 <!-- ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge) -->
