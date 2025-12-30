@@ -1,8 +1,5 @@
 # About me
 
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedroaugustosbelo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroasbelo/)
-
 Hi there, I'm Pedro Augusto. I am a Computer Science graduate from the Federal University of Goiás and I'm currently studying full stack development.
 
 ## Undergraduate Studies
