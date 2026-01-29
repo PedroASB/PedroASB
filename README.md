@@ -4,7 +4,7 @@ Hi there, I'm Pedro Augusto. I am a Computer Science graduate from the Federal U
 
 ## Undergraduate Studies
 
-During college, I became particularly interested in theoretical areas of computer science, which led me to write my undergraduate thesis in Graph Theory and then publish an article based on it.
+During college, I became particularly interested in theoretical areas of computer science, which led me to write my undergraduate thesis in Graph Theory and then publish a paper based on it.
 
 I've also built backend-focused projects in languages such as C/C++, Python, Lua and Java — including a language interpreter, a compiler, a restaurant system and several others. You can find some of them in my pinned repositories.
 
@@ -19,12 +19,12 @@ After initially dedicating myself to the academic research area, I started explo
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<!-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) -->
-<!-- ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white) -->
+<!-- ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) -->
+<!-- ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black) -->
 <!-- ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) -->
 <!-- ![PostgreSQL](https://img.shields.io/badge/Postgre%20SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) -->
 <!-- ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) -->
