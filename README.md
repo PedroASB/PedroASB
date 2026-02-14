@@ -1,16 +1,16 @@
 # About me
 
-Hi there, I'm Pedro Augusto. I am a Computer Science graduate from the Federal University of Goiás and I'm currently studying full stack development.
+Hi there, I'm Pedro Augusto. I am a Computer Science graduate from the Federal University of Goiás.
 
 ## Undergraduate Studies
 
 During college, I became particularly interested in theoretical areas of computer science, which led me to write my undergraduate thesis in Graph Theory and then publish a paper based on it.
 
-I've also built backend-focused projects in languages such as C/C++, Python, Lua and Java — including a language interpreter, a compiler, a restaurant system and several others. You can find some of them in my pinned repositories.
+I've also built backend-focused projects in languages such as C/C++, Python, Lua and Java — including a language interpreter, a compiler, a restaurant system and several others.
 
-## Current Goal
+## Current Studies
 
-After initially dedicating myself to the academic research area, I started exploring other paths and am currently working on full stack projects. I've already built some interesting projects, which can be found in [fullstack-journey](https://github.com/PedroASB/fullstack-journey) repository.
+After initially dedicating myself to the academic research area, I started exploring other paths and am currently working on full stack projects.
 
 ---
 
@@ -56,6 +56,8 @@ After initially dedicating myself to the academic research area, I started explo
 <!-- ![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=uml&logoColor=white) -->
 <!-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) -->
 
+
+<!--
 ### Some Stats
 
 <div>
@@ -64,6 +66,12 @@ After initially dedicating myself to the academic research area, I started explo
 <img src="https://github-readme-stats.vercel.app/api?username=PedroASB&custom_title=GitHub%20Stats&show_icons=true&hide_rank=true&theme=nord&show=prs_merged&hide=stars,issues&=include_all_commits=false&line_height=24&disable_animations=false" alt="GitHub Stats" width=260px>
 </div>
 <br>
+
+-->
+
+
+
+
 
 <!-- 
 > _“The only way to do great work is to love what you do.”_
